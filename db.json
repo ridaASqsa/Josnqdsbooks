@@ -1,7 +1,7 @@
 {
   "ADS" : {
-    "BigId" : "ca-app-pub-3940256099942544/1033173712",
-    "bannerId" : "ca-app-pub-3940256099942544/6300978111",
-    "networkAd" : "Admob"
+    "BigId": "ca-app-pub-3940256099942544/1033173712",
+    "BannerId": "ca-app-pub-3940256099942544/6300978111",
+    "Network" : "Admob"
   }
 }
